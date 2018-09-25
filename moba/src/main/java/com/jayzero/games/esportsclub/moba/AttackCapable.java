@@ -12,7 +12,7 @@ public interface AttackCapable {
     /**
      * 对可攻击的对象进行一次攻击
      *
-     * @param attackable Attackable
+     * @param defendCapable DefendCapable
      */
-    void attack(Attackable attackable);
+    void attack(DefendCapable defendCapable);
 }

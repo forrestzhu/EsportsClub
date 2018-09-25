@@ -7,5 +7,5 @@ package com.jayzero.games.esportsclub.moba;
  * @version Defensive.java, v0.1
  * @date 2018/09/24
  */
-public interface Defensive {
+public interface DefendCapable {
 }

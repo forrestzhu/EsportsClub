@@ -7,6 +7,6 @@ package com.jayzero.games.esportsclub.moba;
  * @version AbstractUnit.java, v0.1
  * @date 2018/09/24
  */
-public abstract class AbstractUnit {
+public abstract class AbstractUnit implements AttackCapable, DefendCapable {
 
 }
