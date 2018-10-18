@@ -1,5 +1,7 @@
 package com.jayzero.games.esportsclub.moba;
 
+import com.jayzero.games.esportsclub.moba.player.Player;
+
 /**
  * Controllable 可被操控的
  *

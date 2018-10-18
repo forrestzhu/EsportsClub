@@ -1,4 +1,4 @@
-package com.jayzero.games.esportsclub.moba;
+package com.jayzero.games.esportsclub.moba.player;
 
 /**
  * Player 游戏玩家
@@ -7,5 +7,6 @@ package com.jayzero.games.esportsclub.moba;
  * @version Player.java, v0.1
  * @date 2018/09/25
  */
-public class Player {
+public class Player extends Person {
+
 }
